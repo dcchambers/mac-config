@@ -28,8 +28,7 @@ xcode-select --install
 # Install Homebrew
 echo "Installing Homebrew"
 if test ! $(which brew); then
-  echo "Installing homebrew..."
-  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 fi
 
 echo "Updating Homebrew"
@@ -46,4 +45,12 @@ git config --global user.email "$email"
 echo "Installing brew formaulae and casks"
 brew bundle install
 
+# Make Code Directory if it doesn't exist.
+echo "Creating directory: ~/Code"
+mdkir ~/Code
 
+# Dotfiles
+echo "Cloning dotfiles repo"
+git clone git@github.com:dcchambers/dotfiles.git ~/Code/dotfiles
+echo "Configuring dotfiles"
+cd ~/Code/dotfiles && sh create-symlinks.sh 
