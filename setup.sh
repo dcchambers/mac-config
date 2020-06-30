@@ -9,6 +9,11 @@ read name
 echo "Enter your email (For git and private key config):"
 read email
 
+# Misc Setup
+# Keypress repeat
+defaults write NSGlobalDomain KeyRepeat -int 0
+defaults write NSGlobalDomain InitialKeyRepeat -int 15
+
 # Generate SSH key pair
 read -p "Would you like to create a new SSH key pair? [Yy]: " -n 1 -r
 echo #newline
