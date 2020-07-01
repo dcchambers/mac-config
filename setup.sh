@@ -44,6 +44,7 @@ brew update
 # Git Config
 echo "Configuring git"
 brew install git
+brew link --overwrite git
 git config --global user.name "$name"
 git config --global user.email "$email"
 
