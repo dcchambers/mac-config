@@ -20,8 +20,9 @@ echo #newline
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
     echo "Generating a new RSA key pair"
-    #ssh-keygen -t rsa -b 4096 -C "$email"
+    ssh-keygen -t rsa -b 4096 -C "$email"
     echo "Please add the public key to your GitHub account"
+    echo "Also add this key to ssh-agent: ssh-add -K /path/to/privatekey"
     read -p "Press any key to continue"
 fi
 
