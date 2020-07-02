@@ -10,6 +10,7 @@ tap "instrumenta/instrumenta"
 tap "versent/taps"
 
 # Brew Formula (CLI tools)
+brew "asciinema"
 brew "awscli"
 brew "bash"
 brew "bash-completion@2"
