@@ -1,3 +1,8 @@
-brew "borgbackup"
+# Brewfile for stuff I only want on my personal laptop.
+# Install with: brew bundle install --file Brewfile.personal
 
-cask "borgmatic"
+# Formulae
+brew "borgmatic"
+
+# Casks
+cask "borgbackup"
