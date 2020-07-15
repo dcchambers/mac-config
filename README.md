@@ -13,3 +13,11 @@ Brewfile and scripts to set up fresh a fresh Mac install.
 - Open a terminal and navigate to the directory that has the `setup.sh` and
   `Brewfile` files.
 - Run `./setup.sh` and follow the instructions.
+
+## Brewfile
+
+- If you just want to install the applications listed in the `Brewfile`, run
+  this command (with Homebrew installed): `brew bundle install` from the
+  directory with the `Brewfile`.
+- `Brewfile.personal` contains tools and applications I only want installed on
+  my personal machine. `brew bundle install --file Brewfile.personal`
