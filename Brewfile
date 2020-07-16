@@ -55,6 +55,7 @@ brew "yarn"
 # Casks (.app programs)
 cask "atom"
 cask "background-music"
+cask "basictex"
 cask "calibre"
 cask "chefdk"
 cask "db-browser-for-sqlite"
