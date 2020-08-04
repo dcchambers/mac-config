@@ -7,6 +7,7 @@ tap "homebrew/cask"
 tap "homebrew/cask-versions"
 tap "homebrew/core"
 tap "instrumenta/instrumenta"
+tap "k14s/tap"
 tap "versent/taps"
 
 # Brew Formula (CLI tools)
@@ -49,6 +50,7 @@ brew "tree"
 brew "tty-clock"
 brew "versent/taps/saml2aws"
 brew "vim"
+brew "k14s/tap/vendir"
 brew "wget"
 brew "yarn"
 
