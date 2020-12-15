@@ -1,5 +1,5 @@
 # mac-config
-Brewfile and scripts to set up fresh a fresh Mac install.
+Brewfile and scripts to bootstrap a fresh Mac install.
 
 - Installs xcode command line tools.
 - Installs Homebrew and tools/apps listed in the [Brewfile](Brewfile).
