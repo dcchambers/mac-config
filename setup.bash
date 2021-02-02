@@ -5,9 +5,9 @@ echo "----------------"
 
 # Get user data
 echo "Enter your full name (For git config):"
-read name
+read -r name
 echo "Enter your email (For git and private key config):"
-read email
+read -r email
 
 # Misc Setup
 # Keypress repeat
@@ -23,7 +23,7 @@ then
     ssh-keygen -t rsa -b 4096 -C "$email"
     echo "Please add the public key to your GitHub account"
     echo "Also add this key to ssh-agent: ssh-add -K /path/to/privatekey"
-    read -p "Press any key to continue"
+    read -r -p "Press any key to continue"
 fi
 
 # Install command line tools
