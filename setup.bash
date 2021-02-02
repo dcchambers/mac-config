@@ -33,7 +33,7 @@ xcode-select --install
 
 # Install Homebrew
 echo "Installing Homebrew"
-if test ! $(which brew); then
+if test ! "$(which brew)"; then
     ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 fi
 
