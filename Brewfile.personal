@@ -1,7 +1,11 @@
 # Brewfile for stuff I only want on my personal laptop.
 # Install with: brew bundle install --file Brewfile.personal
 
+# Taps
+tap "achannarasappa/tap"
+
 # Formulae
+brew "achannarasappa/tap/ticker"
 brew "borgmatic"
 
 # Casks
