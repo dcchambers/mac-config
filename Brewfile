@@ -82,6 +82,7 @@ cask "firefox-nightly"
 #cask "google-chrome" #Managed by IT dept
 cask "google-chrome-canary"
 cask "google-cloud-sdk"
+cask "itsycal"
 cask "keybase"
 cask "mark-text"
 cask "muzzle"
