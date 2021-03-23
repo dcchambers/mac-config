@@ -9,7 +9,7 @@ tap "homebrew/cask-versions"
 tap "homebrew/core"
 tap "instrumenta/instrumenta"
 tap "k14s/tap"
-tap "versent/taps"
+# tap "versent/taps" #saml2aws migrated to homebrew core.
 
 # Brew Formula (CLI tools)
 brew "asciinema"
@@ -61,7 +61,7 @@ brew "tmux"
 brew "transmission-cli"
 brew "tree"
 brew "tty-clock"
-brew "versent/taps/saml2aws"
+brew "saml2aws"
 brew "vim"
 brew "k14s/tap/vendir"
 brew "watson"
