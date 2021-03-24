@@ -1,0 +1,6 @@
+# A list of python packages to install with pip (pip3)
+
+# Usage: pip3 install -r pip3-packages.txt
+
+# Command Line Tools
+visidata
