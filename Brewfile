@@ -8,8 +8,8 @@ tap "homebrew/cask"
 tap "homebrew/cask-versions"
 tap "homebrew/core"
 tap "instrumenta/instrumenta"
-tap "k14s/tap"
 # tap "versent/taps" #saml2aws migrated to homebrew core.
+tap "vmware-tanzu/carvel"
 
 # Brew Formula (CLI tools)
 brew "asciinema"
@@ -63,7 +63,7 @@ brew "tree"
 brew "tty-clock"
 brew "saml2aws"
 brew "vim"
-brew "k14s/tap/vendir"
+brew "vendir"
 brew "watson"
 brew "wget"
 brew "yarn"
