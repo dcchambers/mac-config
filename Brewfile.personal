@@ -11,3 +11,4 @@ brew "borgmatic"
 # Casks
 cask "borgbackup"
 cask "private-internet-access"
+cask "krita"
