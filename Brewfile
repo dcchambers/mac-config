@@ -55,7 +55,6 @@ brew "rbenv"
 brew "rbenv-vars"
 brew "ripgrep"
 brew "rga"
-brew "rtv"
 brew "ruby-build"
 brew "shellcheck"
 brew "speedtest" #Official Ookla speedtest
