@@ -9,6 +9,7 @@ tap "homebrew/cask-versions"
 tap "homebrew/core"
 tap "instrumenta/instrumenta"
 # tap "versent/taps" #saml2aws migrated to homebrew core.
+tap "teamookla/speedtest"
 tap "vmware-tanzu/carvel"
 
 # Brew Formula (CLI tools)
@@ -56,6 +57,8 @@ brew "rga"
 brew "rtv"
 brew "ruby-build"
 brew "shellcheck"
+brew "speedtest" #Official Ookla speedtest
+brew "speedtest-cli" #From github.com/sivel/speedtest-cli
 brew "sqlite"
 brew "sshuttle"
 brew "task"
