@@ -64,6 +64,7 @@ brew "speedtest-cli" #From github.com/sivel/speedtest-cli
 brew "sqlite"
 brew "sshuttle"
 brew "task"
+brew "tealdeer" #tldr.sh rust implementation
 brew "tmux"
 brew "transmission-cli"
 brew "tree"
