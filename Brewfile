@@ -42,6 +42,7 @@ brew "jq"
 #brew "jsonnet" #Conflicts with go-jsonnet
 brew "lynx"
 brew "mas"
+brew "micro"
 brew "minikube"
 brew "most"
 brew "neofetch"
