@@ -40,6 +40,7 @@ brew "hub"
 brew "instrumenta/instrumenta/kubeval"
 brew "jq"
 #brew "jsonnet" #Conflicts with go-jsonnet
+brew "kubernetes-cli" #Minikube dependency, but useful to list still
 brew "lynx"
 brew "mas"
 brew "micro"
