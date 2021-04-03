@@ -3,10 +3,12 @@
 
 # Taps
 tap "achannarasappa/tap"
+tap "tarkah/tickrs"
 
 # Formulae
 brew "achannarasappa/tap/ticker"
 brew "borgmatic"
+brew "tarkah/tickrs/tickrs"
 
 # Casks
 cask "borgbackup"
