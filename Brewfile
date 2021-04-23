@@ -66,6 +66,7 @@ brew "rga"
 brew "ruby-build"
 #brew "rust" #Let's try just using rustup.
 brew "rustup-init"
+brew "saml2aws"
 brew "shellcheck"
 brew "speedtest" #Official Ookla speedtest
 brew "speedtest-cli" #From github.com/sivel/speedtest-cli
@@ -78,7 +79,6 @@ brew "tmux"
 brew "transmission-cli"
 brew "tree"
 brew "tty-clock"
-brew "saml2aws"
 brew "vim"
 brew "vendir"
 brew "watson"
