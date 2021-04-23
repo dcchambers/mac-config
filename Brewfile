@@ -64,6 +64,8 @@ brew "rbenv-vars"
 brew "ripgrep"
 brew "rga"
 brew "ruby-build"
+#brew "rust" #Let's try just using rustup.
+brew "rustup-init"
 brew "shellcheck"
 brew "speedtest" #Official Ookla speedtest
 brew "speedtest-cli" #From github.com/sivel/speedtest-cli
