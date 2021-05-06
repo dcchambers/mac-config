@@ -101,6 +101,7 @@ cask "docker"
 cask "firefox"
 cask "firefox-developer-edition"
 cask "firefox-nightly"
+cask "gitify"
 #cask "google-chrome" #Managed by IT dept
 cask "google-chrome-canary"
 cask "google-cloud-sdk"
