@@ -8,6 +8,9 @@ tap "tarkah/tickrs"
 # Formulae
 brew "achannarasappa/tap/ticker"
 brew "borgmatic"
+brew "k9s"
+brew "krew"
+brew "kubectx"
 brew "tarkah/tickrs/tickrs"
 
 # Casks
