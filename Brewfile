@@ -15,6 +15,7 @@ tap "teamookla/speedtest"
 tap "vmware-tanzu/carvel"
 
 # Brew Formula (CLI tools)
+brew "age"
 brew "asciinema"
 brew "awscli"
 brew "bash"
