@@ -15,6 +15,7 @@ brew "tarkah/tickrs/tickrs"
 
 # Casks
 cask "borgbackup"
+cask "discord"
 cask "google-chrome"
 cask "inkscape"
 cask "private-internet-access"
