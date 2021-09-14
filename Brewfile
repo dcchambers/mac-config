@@ -100,6 +100,7 @@ brew "watson"
 brew "wget"
 brew "yarn"
 brew "youtube-dl"
+brew "yq"
 
 # Casks (.app programs)
 cask "atom"
