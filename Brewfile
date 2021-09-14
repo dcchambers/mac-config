@@ -56,6 +56,7 @@ brew "jq"
 brew "k9s"
 brew "kubernetes-cli" #Minikube dependency, but useful to list still
 brew "kubie"
+brew "krew"
 brew "lynx"
 brew "mas"
 brew "micro"
