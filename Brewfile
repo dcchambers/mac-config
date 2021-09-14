@@ -53,6 +53,7 @@ brew "hub"
 #brew "instrumenta/instrumenta/kubeval" #Using dcchambers/tap/kubeval for now.
 brew "jq"
 #brew "jsonnet" #Conflicts with go-jsonnet
+brew "k9s"
 brew "kubernetes-cli" #Minikube dependency, but useful to list still
 brew "lynx"
 brew "mas"
