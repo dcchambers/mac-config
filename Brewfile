@@ -55,6 +55,7 @@ brew "jq"
 #brew "jsonnet" #Conflicts with go-jsonnet
 brew "k9s"
 brew "kubernetes-cli" #Minikube dependency, but useful to list still
+brew "kubie"
 brew "lynx"
 brew "mas"
 brew "micro"
