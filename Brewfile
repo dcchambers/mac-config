@@ -1,4 +1,5 @@
 # Taps
+tap "abhimanyu003/sttr"
 tap "chef/chef"
 tap "dcchambers/tap"
 tap "eth-p/software"
@@ -89,6 +90,7 @@ brew "speedtest" #Official Ookla speedtest
 brew "speedtest-cli" #From github.com/sivel/speedtest-cli
 brew "sqlite"
 brew "sshuttle"
+brew "sttr"
 brew "task"
 brew "tealdeer" #tldr.sh rust implementation
 brew "terminal-notifier"
