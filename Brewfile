@@ -75,6 +75,7 @@ brew "openjdk"
 brew "pandoc"
 brew "pass"
 brew "plantuml"
+brew "podman"
 brew "prettyping"
 brew "python"
 brew "ranger"
@@ -138,3 +139,6 @@ cask "typora"
 cask "visual-studio-code"
 cask "vlc"
 #cask "zoom" #Managed by IT dept
+
+#Mac App Store
+mas "Noteship", id: 1571711347
