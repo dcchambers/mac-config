@@ -123,6 +123,7 @@ cask "gitify"
 #cask "google-chrome" #Managed by IT dept
 cask "google-chrome-canary"
 cask "google-cloud-sdk"
+cask "insomnia"
 cask "itsycal"
 cask "kap"
 cask "keybase"
