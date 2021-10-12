@@ -49,7 +49,7 @@ brew "goto"
 brew "gpg"
 brew "hashicorp/tap/terraform"
 brew "hashicorp/tap/vault"
-brew "helm"
+#brew "helm" #Conflicts with rancher desktop
 brew "heroku/brew/heroku"
 brew "homeport/tap/dyff"
 brew "httpie"
