@@ -142,6 +142,7 @@ cask "postman"
 cask "rectangle"
 cask "transmission"
 cask "typora"
+cask "vagrant"
 cask "visual-studio-code"
 cask "vlc"
 #cask "zoom" #Managed by IT dept
