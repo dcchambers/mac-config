@@ -2,5 +2,5 @@
 
 # Usage: pip3 install -r pip3-packages.txt
 
-# Command Line Tools
+json-schema-for-humans
 visidata
