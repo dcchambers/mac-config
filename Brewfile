@@ -103,6 +103,7 @@ brew "task"
 brew "tealdeer" #tldr.sh rust implementation
 brew "terminal-notifier"
 brew "tmux"
+brew "timewarrior"
 brew "transmission-cli"
 brew "tree"
 brew "tty-clock"
