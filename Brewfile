@@ -96,6 +96,7 @@ brew "ruby-build"
 brew "rustup-init"
 brew "saml2aws"
 brew "shellcheck"
+brew "slides"
 brew "speedtest" #Official Ookla speedtest
 brew "speedtest-cli" #From github.com/sivel/speedtest-cli
 brew "sqlite"
