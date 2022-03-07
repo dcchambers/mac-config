@@ -4,11 +4,13 @@
 # Taps
 tap "achannarasappa/tap"
 tap "tarkah/tickrs"
+tap "cooklang/tap"
 
 # Formulae
 brew "achannarasappa/tap/ticker"
 brew "borgbackup"
 brew "borgmatic"
+brew "cooklang/tap/cook"
 brew "k9s"
 brew "krew"
 brew "kubectx"
