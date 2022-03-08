@@ -131,11 +131,12 @@ cask "calibre"
 cask "chefdk"
 cask "db-browser-for-sqlite"
 cask "docker"
+cask "faskmarks" #Trying out. Purchase --> https://retina.studio/
 cask "firefox"
 cask "firefox-developer-edition"
 cask "firefox-nightly"
 cask "gitify"
-#cask "google-chrome" #Managed by IT dept
+#cask "google-chrome" #Managed by IT dept. Added to Brewfile.personal instead for personal machine.
 cask "google-chrome-canary"
 cask "google-cloud-sdk"
 cask "insomnia"
@@ -155,6 +156,7 @@ cask "paw"
 cask "postman"
 #cask "rancher" #Conflicts with existing k8s stuff.
 cask "rectangle"
+cask "textbuddy" #Trying out. Purchase --> https://retina.studio/
 cask "transmission"
 cask "typora"
 cask "vagrant"
