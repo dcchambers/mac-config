@@ -135,6 +135,7 @@ cask "faskmarks" #Trying out. Purchase --> https://retina.studio/
 cask "firefox"
 cask "firefox-developer-edition"
 cask "firefox-nightly"
+cask "flux"
 cask "gitify"
 #cask "google-chrome" #Managed by IT dept. Added to Brewfile.personal instead for personal machine.
 cask "google-chrome-canary"
