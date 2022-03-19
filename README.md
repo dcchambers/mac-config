@@ -1,4 +1,10 @@
 # mac-config
+
+:warning: As of 3/18/22, my mac config is merged with my [dotfiles
+repo](https://github.com/dcchambers/dotfiles). This repo has been archived.
+
+---
+
 Brewfile and scripts to bootstrap a fresh Mac install.
 
 - Installs xcode command line tools.
